@@ -1,0 +1,10 @@
+.wrapperClassName {
+    border: 1px solid rgb(216, 215, 215);
+    border-radius: 6px;
+    overflow: hidden;
+}
+
+.editorClassName {
+    padding: 0 20px 0 20px;
+    min-height: 200px;
+}
